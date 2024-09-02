@@ -16,6 +16,7 @@ This project requires the following software and Python libraries:
 - **pandas**: A library for data manipulation and analysis.
 - **scikit-learn**: A library for machine learning.
 - **matplotlib**: A plotting library for creating static, animated, and interactive visualizations.
+- **seaborn**:    Python visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
 
 # Starting the Project
 
