@@ -16,3 +16,23 @@ This project requires the following software and Python libraries:
 - **pandas**: A library for data manipulation and analysis.
 - **scikit-learn**: A library for machine learning.
 - **matplotlib**: A plotting library for creating static, animated, and interactive visualizations.
+
+# Starting the Project
+
+This project contains the following files:
+
+- **linear regression(Boston House price).ipynb**: This is the main Jupyter Notebook file where you will be performing your work on the project. It includes the code and analysis for predicting Boston housing prices using linear regression.
+- **Boston_Housing.csv**: The dataset used for this project. It contains information about housing prices and features in Boston.
+
+## Running the Jupyter Notebook
+
+To start working with the project, follow these steps:
+
+1. **Open a Terminal or Command Prompt**:
+   - On **Windows**, you can use Command Prompt or PowerShell.
+   - On **macOS** or **Linux**, use the Terminal.
+
+2. **Navigate to the Project Directory**:
+   Use the `cd` command to change to the directory containing the project files. For example:
+   ```bash
+   cd path/to/your/project
